@@ -16,10 +16,10 @@ python -m spacy download en_core_web_sm
 
 ## Features
 
--Extracts location information using IP geolocation.
--Scrapes website content with BeautifulSoup.
--Identifies names using spaCy's named entity recognition.
--Collects social media links (Twitter, Facebook, LinkedIn, Instagram, YouTube).
+- Extracts location information using IP geolocation.
+- Scrapes website content with BeautifulSoup.
+- Identifies names using spaCy's named entity recognition.
+- Collects social media links (Twitter, Facebook, LinkedIn, Instagram, YouTube).
 
 ## Output
 The script generates a table with the extracted information, including website, location, names, email, and social media links.
